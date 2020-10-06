@@ -4,8 +4,8 @@
 # TODO: Importez vos modules ici
 import math
 import sys
-sys.path.insert(1, r'C:\Users\Jamy\Documents\GitHub')
-import c04-ch6-exercices-JamZel._exercice_version_prof.py
+sys.path.insert(1, r'C:\Users\Jamy\Documents\GitHub\c04-ch6-exercices-JamZel')
+from _exercice_version_proftest import frequence
 
 # TODO: Définissez vos fonction ici
 def Masse_Volume(a = 5, b = 6, c = 7, masse_volumique = 2.85):
@@ -17,5 +17,5 @@ def Masse_Volume(a = 5, b = 6, c = 7, masse_volumique = 2.85):
 if __name__ == '__main__':
     # TODO: Appelez vos fonctions ici
     Masse_Volume()
-
+    frequence("sentence")
     pass
