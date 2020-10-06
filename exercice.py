@@ -17,5 +17,5 @@ def Masse_Volume(a = 5, b = 6, c = 7, masse_volumique = 2.85):
 if __name__ == '__main__':
     # TODO: Appelez vos fonctions ici
     Masse_Volume()
-    frequence("sentence")
+    frequence("rgjrtgkdlkjl")
     pass
