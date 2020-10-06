@@ -4,7 +4,7 @@
 # TODO: Importez vos modules ici
 import math
 import sys
-sys.path.insert(1, 'C:\Users\Jamy\Documents\GitHub')
+sys.path.insert(1, r'C:\Users\Jamy\Documents\GitHub')
 import c04-ch6-exercices-JamZel._exercice_version_prof.py
 
 # TODO: Définissez vos fonction ici
